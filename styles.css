@@ -1,7 +1,7 @@
 
         .body-initial {
             background-color: rgba(58, 255, 164, 1);
-            border-style: groove;
+            border-style: dotted;
             border-width: 4px 4px 4px 4px;
             border-radius: 9px 9px 9px 9px;
         }
